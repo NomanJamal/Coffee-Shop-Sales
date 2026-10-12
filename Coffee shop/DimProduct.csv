@@ -1,0 +1,81 @@
+product_id,product_detail,product_type,product_category
+1,Brazilian - Organic,Organic Beans,Coffee beans
+2,Our Old Time Diner Blend,House blend Beans,Coffee beans
+3,Espresso Roast,Espresso Beans,Coffee beans
+4,Primo Espresso Roast,Espresso Beans,Coffee beans
+5,Columbian Medium Roast,Gourmet Beans,Coffee beans
+6,Ethiopia,Gourmet Beans,Coffee beans
+7,Jamacian Coffee River,Premium Beans,Coffee beans
+8,Civet Cat,Premium Beans,Coffee beans
+9,Organic Decaf Blend,Organic Beans,Coffee beans
+10,Guatemalan Sustainably Grown,Green beans,Coffee beans
+11,Lemon Grass,Herbal tea,Loose Tea
+12,Peppermint,Herbal tea,Loose Tea
+13,English Breakfast,Black tea,Loose Tea
+14,Earl Grey,Black tea,Loose Tea
+15,Serenity Green Tea,Green tea,Loose Tea
+16,Traditional Blend Chai,Chai tea,Loose Tea
+17,Morning Sunrise Chai,Chai tea,Loose Tea
+18,Spicy Eye Opener Chai,Chai tea,Loose Tea
+19,Dark chocolate,Drinking Chocolate,Packaged Chocolate
+20,Sustainably Grown Organic,Organic Chocolate,Packaged Chocolate
+21,Chili Mayan,Drinking Chocolate,Packaged Chocolate
+22,Our Old Time Diner Blend Sm,Drip coffee,Coffee
+23,Our Old Time Diner Blend Rg,Drip coffee,Coffee
+24,Our Old Time Diner Blend Lg,Drip coffee,Coffee
+25,Brazilian Sm,Organic brewed coffee,Coffee
+26,Brazilian Rg,Organic brewed coffee,Coffee
+27,Brazilian Lg,Organic brewed coffee,Coffee
+28,Columbian Medium Roast Sm,Gourmet brewed coffee,Coffee
+29,Columbian Medium Roast Rg,Gourmet brewed coffee,Coffee
+30,Columbian Medium Roast Lg,Gourmet brewed coffee,Coffee
+31,Ethiopia Sm,Gourmet brewed coffee,Coffee
+32,Ethiopia Rg,Gourmet brewed coffee,Coffee
+33,Ethiopia Lg,Gourmet brewed coffee,Coffee
+34,Jamaican Coffee River Sm,Premium brewed coffee,Coffee
+35,Jamaican Coffee River Rg,Premium brewed coffee,Coffee
+36,Jamaican Coffee River Lg,Premium brewed coffee,Coffee
+37,Espresso shot,Barista Espresso,Coffee
+38,Latte,Barista Espresso,Coffee
+39,Latte Rg,Barista Espresso,Coffee
+40,Cappuccino,Barista Espresso,Coffee
+41,Cappuccino Lg,Barista Espresso,Coffee
+42,Lemon Grass Rg,Brewed herbal tea,Tea
+43,Lemon Grass Lg,Brewed herbal tea,Tea
+44,Peppermint Rg,Brewed herbal tea,Tea
+45,Peppermint Lg,Brewed herbal tea,Tea
+46,Serenity Green Tea Rg,Brewed Green tea,Tea
+47,Serenity Green Tea Lg,Brewed Green tea,Tea
+48,English Breakfast Rg,Brewed Black tea,Tea
+49,English Breakfast Lg,Brewed Black tea,Tea
+50,Earl Grey Rg,Brewed Black tea,Tea
+51,Earl Grey Lg,Brewed Black tea,Tea
+52,Traditional Blend Chai Rg,Brewed Chai tea,Tea
+53,Traditional Blend Chai Lg,Brewed Chai tea,Tea
+54,Morning Sunrise Chai Rg,Brewed Chai tea,Tea
+55,Morning Sunrise Chai Lg,Brewed Chai tea,Tea
+56,Spicy Eye Opener Chai Rg,Brewed Chai tea,Tea
+57,Spicy Eye Opener Chai Lg,Brewed Chai tea,Tea
+58,Dark chocolate Rg,Hot chocolate,Drinking Chocolate
+59,Dark chocolate Lg,Hot chocolate,Drinking Chocolate
+60,Sustainably Grown Organic Rg,Hot chocolate,Drinking Chocolate
+61,Sustainably Grown Organic Lg,Hot chocolate,Drinking Chocolate
+63,Carmel syrup,Regular syrup,Flavours
+64,Hazelnut syrup,Regular syrup,Flavours
+65,Sugar Free Vanilla syrup,Sugar free syrup,Flavours
+69,Hazelnut Biscotti,Biscotti,Bakery
+70,Cranberry Scone,Scone,Bakery
+71,Chocolate Croissant,Pastry,Bakery
+72,Ginger Scone,Scone,Bakery
+73,Almond Croissant,Pastry,Bakery
+74,Ginger Biscotti,Biscotti,Bakery
+75,Croissant,Pastry,Bakery
+76,Chocolate Chip Biscotti,Biscotti,Bakery
+77,Oatmeal Scone,Scone,Bakery
+78,Scottish Cream Scone,Scone,Bakery
+79,Jumbo Savory Scone,Scone,Bakery
+81,I Need My Bean! T-shirt,Clothing,Branded
+82,I Need My Bean! Diner mug,Housewares,Branded
+83,I Need My Bean! Latte cup,Housewares,Branded
+84,Chocolate syrup,Regular syrup,Flavours
+87,Ouro Brasileiro shot,Barista Espresso,Coffee
